@@ -44,10 +44,8 @@ a{
 }
 
 .navlinks a:hover{
-	font-size: 15px;
 	color: black;
 	background-color: white;
-	border: solid black 1px;
 
 
 }
