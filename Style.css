@@ -1,11 +1,14 @@
+body {
+	background-color: grey;
+}
+
+
 .navlinks {
 
 	overflow: hidden;
 	position: fixed;
 	top: 0;
 	width: 100%
-	background-color: blue;
-
 }
 
 .navlinks a, a:link, a:visited {
@@ -17,6 +20,16 @@
 	text-decoration: none;
 	border: solid black 1px;
 
+}
+
+h1 {
+	text-align: center;
+	font-family: ;
+}
+
+p {
+	text-align: center;
+	font-family: ;
 }
 
 /*Det tengs en liten top margin på det første som kommer etter den øverste menyen for å unngå at ting overlapper (margin-top: 30px f. eks)*/
