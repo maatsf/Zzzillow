@@ -28,8 +28,10 @@ h1 {
 }
 
 p {
-	text-align: center;
+	text-align: left;
 	font-family: ;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 /*Det tengs en liten top margin på det første som kommer etter den øverste menyen for å unngå at ting overlapper (margin-top: 30px f. eks)*/
