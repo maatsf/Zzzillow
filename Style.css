@@ -33,7 +33,7 @@ a{
 	padding: 7px 15px;
 	border: solid white 2px;
 	border-radius: 500px;
-	transition-duration: 0.3s;
+	transition-duration: 0.5s;
 }
 
 .navlinks a:hover{
