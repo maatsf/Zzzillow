@@ -1,9 +1,8 @@
 body {
 	margin: 0px;
 	margin-top: 5%;
-	background-color: grey;
-	font-family: Helvetica,Arial,sans-serif;;
-	background-color: ;
+	background-color: white;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 a{
@@ -47,7 +46,7 @@ a{
 
 h1 {
 	text-align: center;
-	font-family: ;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 p {
@@ -55,6 +54,7 @@ p {
 	font-family: ;
 	margin-left: 20%;
 	margin-right: 20%;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 li {
@@ -62,6 +62,7 @@ li {
 	font-family: ;
 	margin-left: 20%;
 	margin-right: 20%;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 .forsidetekst {
@@ -69,6 +70,7 @@ li {
 	font-family: ;
 	margin-left: 20%;
 	margin-right: 20%;
+	font-family: Helvetica,Arial,sans-serif;
 }
 
 /*Det tengs en liten top margin på det første som kommer etter den øverste menyen for å unngå at ting overlapper (margin-top: 30px f. eks)*/
