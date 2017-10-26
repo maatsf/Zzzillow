@@ -1,8 +1,12 @@
 body {
+<<<<<<< HEAD
 	margin: 0px;
 	margin-top: 5%;
 	background-color: grey;
 	font-family: Helvetica,Arial,sans-serif;;
+=======
+	background-color: ;
+>>>>>>> 3e4a6801f9cc863f903b21c337ce380154517624
 }
 
 a{
@@ -50,8 +54,24 @@ h1 {
 }
 
 p {
+	text-align: left;
+	font-family: ;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+li {
+	text-align: left;
+	font-family: ;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.forsidetekst {
 	text-align: center;
 	font-family: ;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 /*Det tengs en liten top margin på det første som kommer etter den øverste menyen for å unngå at ting overlapper (margin-top: 30px f. eks)*/
