@@ -3,9 +3,10 @@ body {
 	margin-top: 5%;
 	background-color: white;
 	font-family: Helvetica,Arial,sans-serif;
+	background-blend-mode: hue;
 }
 
-#backgroundIndex{
+#background{
 	margin-top: ;
 	position: fixed;
 	width: 100%;
@@ -48,14 +49,19 @@ a{
 	background-color: white;
 
 
+
 }
 
 h1 {
+	padding-top: 10%;
+	color: white;
 	text-align: center;
 	font-family: Helvetica,Arial,sans-serif;
 }
 
 p {
+	font-weight: bold;
+	color: white;
 	text-align: left;
 	font-family: ;
 	margin-left: 20%;
@@ -64,6 +70,8 @@ p {
 }
 
 li {
+	font-weight: bold;
+	color: white;
 	text-align: left;
 	font-family: ;
 	margin-left: 20%;
@@ -72,7 +80,6 @@ li {
 }
 
 .forsidetekst {
-	font-weight: bold;
 	font-size: 20px;
 	color: white;
 	text-align: left;
@@ -89,4 +96,10 @@ li {
 	text-align: left;
 }
 
-/*Det tengs en liten top margin på det første som kommer etter den øverste menyen for å unngå at ting overlapper (margin-top: 30px f. eks)*/
+#zzzillow{
+	width: 500px;
+	height: auto;
+	position: fixed;
+	left: 50%;
+	top: 45%;
+}
