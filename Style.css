@@ -103,3 +103,12 @@ li {
 	left: 50%;
 	top: 45%;
 }
+
+hr {
+	
+	height: 10px;
+	border: 0;
+	width: 60%;
+	box-shadow: 0 10px 10px -10px grey inset;
+	
+}
