@@ -56,7 +56,9 @@ h1 {
 	padding-top: 5%;
 	color: white;
 	text-align: center;
-	font-family: Helvetica,Arial,sans-serif;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 35px;
+	letter-spacing: 4px;
 }
 
 p {
