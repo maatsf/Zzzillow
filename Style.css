@@ -53,7 +53,7 @@ a{
 }
 
 h1 {
-	padding-top: 10%;
+	padding-top: 5%;
 	color: white;
 	text-align: center;
 	font-family: Helvetica,Arial,sans-serif;
@@ -109,6 +109,6 @@ hr {
 	height: 10px;
 	border: 0;
 	width: 60%;
-	box-shadow: 0 10px 10px -10px grey inset;
+	box-shadow: 0 20px 20px -20px grey inset;
 	
 }
